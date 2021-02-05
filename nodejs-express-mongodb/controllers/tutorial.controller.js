@@ -1,2 +1,2 @@
 const db = require("../models")
-const Tutorial = db.tutorial
+const Tutorial = db.tutorial;
